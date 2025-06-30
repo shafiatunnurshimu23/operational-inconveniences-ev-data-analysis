@@ -64,6 +64,10 @@ By comparing all criteria against the "best" (most critical) and "worst" (least 
 <!-- ### TODO: UPDATE THIS LINK (from your PDF's Figure 4.12) ### -->
 > *Fig 2: Final priority weights calculated by the BWM, highlighting the dominant barriers.*
 
+overall methodology
+![image](https://github.com/user-attachments/assets/5bbe48bf-a983-401b-be81-9520e6d2a17e)
+
+
 ## 5. Prioritized Findings & Actionable Recommendations
 
 The BWM analysis produced a clear, data-validated hierarchy of the most significant barriers to HD EV adoption for fleet operators in Cleveland.
